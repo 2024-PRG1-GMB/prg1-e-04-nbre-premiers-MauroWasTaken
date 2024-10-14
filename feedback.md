@@ -1,0 +1,4 @@
+- En-tête incomplète, ajoutez un bref descriptif du module
+- Il manque la lib cstdlib
+- Pas de constante pour les entrées utilisateur ('O' et 'N')
+- La prochaine fois, inclure les fichiers de compilation cmake dans votre repo!
